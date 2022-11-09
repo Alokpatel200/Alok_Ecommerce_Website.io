@@ -1,0 +1,26 @@
+How to run??
+Requirments.
+1.download and install any local web server such as XAMPP/WAMP/MAMP/LAMP.
+2.Download the provided source code Zip.
+
+
+Install and setup...
+Installations steps
+1.Download Zip file and unZipfile on your local server 
+2.Put this file on "s:/xampp/htdocs/"
+3. Database configuration
+
+open phpmyadmin
+Create Database named test
+Import Database test.sql from downloaded folder inside database.
+
+
+open your browser put inside "http://localhost/ecommerce/"
+
+Front end 
+
+Html5,css3,javascript
+
+BACKEND USED 
+
+php,mysql
